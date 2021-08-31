@@ -9,13 +9,13 @@
   
 </p>
 
-- 🚀 I’m currently learning Back-end with Node.js and Express.
-- 🏁 I started one year ago with Semana Omnistack 11.0 and since this I never stop learning.
+- 🚀 I'm currently studying the Javascript stack.
+- 🏁 I started at the beginning of 2020 in "Semana Omnistack 11.0" and since then I haven't stopped studying.
 - 🏛️ I entered college studying Sistemas de Informação.
-- 🎓 I'm currently in the 3rd semester.
+- 🎓 I'm currently in the 4rd semester.
 - 🔥 Practical person.
 - 🎯 Focused person.
 - 📚 Self-educated.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="express" width="17" height="17"/> Testing Linux Mint Cinnamon (liking it a lot)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="express" width="17" height="17"/> Manjaro Gnome User.
 - 🇧🇷 São Paulo - Brasil
 -->
