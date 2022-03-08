@@ -12,10 +12,10 @@
 - 🚀 I'm currently studying the Javascript stack.
 - 🏁 I started at the beginning of 2020 in "Semana Omnistack 11.0" and since then I haven't stopped studying.
 - 🏛️ I entered college studying Sistemas de Informação.
-- 🎓 I'm currently in the 4rd semester.
+- 🎓 I'm currently in the 5rd semester.
 - 🔥 Practical person.
 - 🎯 Focused person.
 - 📚 Self-educated.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="express" width="17" height="17"/> Manjaro Gnome User.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="express" width="17" height="17"/> Linux.
 - 🇧🇷 São Paulo - Brasil
 -->
