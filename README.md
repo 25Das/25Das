@@ -12,7 +12,7 @@
 - 🚀 I'm currently studying the Javascript stack.
 - 🏁 I started at the beginning of 2020 in "Semana Omnistack 11.0" and since then I haven't stopped studying.
 - 🏛️ I entered college studying Sistemas de Informação.
-- 🎓 I'm currently in the 5rd semester.
+- 🎓 I'm currently in the 5th semester.
 - 🔥 Practical person.
 - 🎯 Focused person.
 - 📚 Self-educated.
